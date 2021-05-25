@@ -1,0 +1,11 @@
+.sidenav{
+    height: calc(70vh - 16px);
+    width: 20vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.pos-absolute-right{
+    position: absolute;
+    right: 0;
+}
